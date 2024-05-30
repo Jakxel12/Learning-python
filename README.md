@@ -14,7 +14,7 @@ Welcome to my Python learning journey! This repository is dedicated to documenti
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/learning-python.git
+    git clone https://github.com/Jakxel12/Learning-python
     ```
 2. Navigate to the desired folder and follow the instructions in each section.
 
